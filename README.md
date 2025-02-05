@@ -1,4 +1,4 @@
-c# Shop
+C# Shop
 
 This is a simple C# console application that prompts the user to buy fruits.
 
