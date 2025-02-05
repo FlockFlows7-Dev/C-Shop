@@ -9,10 +9,7 @@ Open the solution in Visual Studio (or your preferred C# IDE).
 Run the program.
 What It Does
 
-Asks for your name.
-Asks for your age.
-Asks for your favorite thing.
-Displays your name, age, and favorite thing back to you.
-Contributing
+Asks you to buy fruits with the balance given.
 
+Contributing
 Feel free to fork this repository and submit pull requests if you have suggestions for improvements or new features.
