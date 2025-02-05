@@ -12,4 +12,5 @@ What It Does
 Asks you to buy fruits with the balance given.
 
 Contributing
+
 Feel free to fork this repository and submit pull requests if you have suggestions for improvements or new features.
